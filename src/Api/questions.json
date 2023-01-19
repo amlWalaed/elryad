@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "question":"A 24-Year-Old Student Returns From A Gap Year In Malawi Complaining Of Visible Haematuria, Dysuria And Urinary Frequency. She Says She Felt Well Throughout Her Trip But Experienced An Itchy Rash On Her Legs A Few Hours After Swimming In Lake Malawi Which Has Now Resolved.",
+        "answers":{
+            "1":{
+                "answer":"answer1",
+                "percentage":75
+            },
+            "2":{
+                "answer":"answer2",
+                "percentage":33
+            },
+            "3":{
+                "answer":"answer3",
+                "percentage":5
+            },
+            "4":{
+                "answer":"answer4",
+                "percentage":80
+            }
+        },
+        "userAnswer":"",
+        "status":"not-answered",
+        "explanation":"Men: 135-180 g/L Women: 115-160 g/LPlatelets 150-400 * 109/L4.0-11.0 * 109/LMen: 135-180 g/L Women: 115-160 g/LPlatelets 150-400 * 109/L4.0-11.0 * 109/L",
+        "references":[
+            ["Haemoglobin","Men: 135-180 g/L Women: 115-160 g/L"],
+            ["Mean cell volume","82-100 fl Platelets 150-400 * 109/L"],
+            ["White blood cells","4.0-11.0 * 109/L"],
+            ["Neutrophils","2.0-7.0 * 109/L"],
+            ["Lymphocytes","1.0-3.5 * 109/L"],
+            ["Eosinophils","0.1-0.4 * 109/L"]
+        ]
+        
+    },
+    {
+        "id":1,
+        "question":"ffdg A 24-Year-Old Student Returns From A Gap Year In Malawi Complaining Of Visible Haematuria, Dysuria And Urinary Frequency. She Says She Felt Well Throughout Her Trip But Experienced An Itchy Rash On Her Legs A Few Hours After Swimming In Lake Malawi Which Has Now Resolved.",
+        "answers":{
+            "1":{
+                "answer":"answer4",
+                "percentage":75
+            },
+            "2":{
+                "answer":"answer2",
+                "percentage":33
+            },
+            "5":{
+                "answer":"answer3",
+                "percentage":5
+            },
+            "4":{
+                "answer":"answer1",
+                "percentage":80
+            }
+        },
+        "userAnswer":"",
+        "status":"not-answered",
+        "explanation":"Men: 135-180 g/L Women: 115-160 g/LPlatelets 150-400 * 109/L4.0-11.0 * 109/LMen: 135-180 g/L Women: 115-160 g/LPlatelets 150-400 * 109/L4.0-11.0 * 109/L",
+        "references":[
+            ["Haemoglobin","Men: 135-180 g/L Women: 115-160 g/L"],
+            ["Mean cell volume","82-100 fl Platelets 150-400 * 109/L"],
+            ["White blood cells","4.0-11.0 * 109/L"],
+            ["Neutrophils","2.0-7.0 * 109/L"],
+            ["Lymphocytes","1.0-3.5 * 109/L"],
+            ["Eosinophils","0.1-0.4 * 109/L"]
+        ]
+    
+    },
+    {
+        "id":1,
+        "question":"ffdg A 24-Year-Old Student Returns From A Gap Year In Malawi Complaining Of Visible Haematuria, Dysuria And Urinary Frequency. She Says She Felt Well Throughout Her Trip But Experienced An Itchy Rash On Her Legs A Few Hours After Swimming In Lake Malawi Which Has Now Resolved.",
+        "answers":{
+            "1":{
+                "answer":"answer4",
+                "percentage":75
+            },
+            "2":{
+                "answer":"answer2",
+                "percentage":33
+            },
+            "5":{
+                "answer":"answer3",
+                "percentage":5
+            },
+            "4":{
+                "answer":"answer1",
+                "percentage":80
+            }
+        },
+        "userAnswer":"",
+        "status":"not-answered",
+        "explanation":"Men: 135-180 g/L Women: 115-160 g/LPlatelets 150-400 * 109/L4.0-11.0 * 109/LMen: 135-180 g/L Women: 115-160 g/LPlatelets 150-400 * 109/L4.0-11.0 * 109/L",
+        "references":[
+            ["Haemoglobin","Men: 135-180 g/L Women: 115-160 g/L"],
+            ["Mean cell volume","82-100 fl Platelets 150-400 * 109/L"],
+            ["White blood cells","4.0-11.0 * 109/L"],
+            ["Neutrophils","2.0-7.0 * 109/L"],
+            ["Lymphocytes","1.0-3.5 * 109/L"],
+            ["Eosinophils","0.1-0.4 * 109/L"]
+        ]
+    }
+]
